@@ -1,2 +1,5 @@
 # swo 
-2��° commit
+2번째 commit
+3번째 commit
+
+
